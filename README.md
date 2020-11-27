@@ -8,6 +8,10 @@ Ubuntu 14.04, 16.04, 18.04 & 20.04
 
 Sierra, Mojave & Catalina
 
-Basic, Logo, Pascal, XHTML, HTML, HTML5, CSS, SCSS, SASS, PHP, Curl, Javascript, Node.js, SQL, Bash, Batch, Poweshell, Apache, Litespeed 
+Basic, Logo, Pascal, XHTML, HTML, HTML5, CSS, SCSS, SASS, PHP, Curl, Javascript, Node.js, SQL, Bash, Batch, Poweshell, Apache, Litespeed, Electron
 
-Editors, IDEs, VMs, VCS, TTD, CI, Builders, Linters, Minifiers, Bundlers, Transpilers 
+Editors, IDEs, VMs, FTP, Networks, VCS, TTD, CI, NPM, Composer, Builders, Linters, Minifiers, Bundlers, Transpilers, Debugging
+
+### What's Hot Now...
+
+Building tools that speed up, automate and streamline the software development pipeline.
